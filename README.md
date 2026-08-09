@@ -43,13 +43,20 @@ Meu nome é Cristayfer Perteson de Araújo Miranda, mais conhecido como Cris, te
 />
 <img 
     alig="left"
-    alt="Git"
-    title="Git"
+    alt="PG"
+    title="PostGreSQL"
     width="40px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />
-
+<img 
+    alig="left"
+    alt="JS"
+    title="JavaScript"
+    width="40px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 ---
 ### 👾 LINKS
 
