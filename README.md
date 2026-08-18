@@ -2,7 +2,7 @@
 
 **`Densenvolvedor de Softwares`**
 ---
-Meu nome é Cristayfer Perteson de Araújo Miranda, mais conhecido como Cris, tenho 23 anos e sou natural de Minas Gerais. Atualmente não esstou cursando nenhuma faculdade, mas pretendo ingressar no curso de engenharia de softwares. Sou apaixonado por tecnologia e busco sempre aprimorar mais o meu conhecimento de programação e tecnologia com o os conteúdos disponiveis na internet.
+Meu nome é Cristayfer Perteson de Araújo Miranda, mais conhecido como Cris, tenho 23 anos e sou natural de Minas Gerais. Atualmente não estou cursando nenhuma faculdade, mas pretendo ingressar no curso de engenharia de softwares. Sou apaixonado por tecnologia e busco sempre aprimorar mais o meu conhecimento de programação e tecnologia com o os conteúdos disponiveis na internet.
 
 ---
 
